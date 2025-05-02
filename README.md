@@ -1,2 +1,2 @@
-# FastReactPizzaCo.
+# FastReactPizzaCo
 Lecture based Project
